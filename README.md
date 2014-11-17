@@ -1,7 +1,7 @@
 docker-gitbucket
 ================
 
-Dockerfile for GitBucket
+Dockerfile for [GitBucket](https://github.com/takezoe/gitbucket)
 
 
 How to use this image
